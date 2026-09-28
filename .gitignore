@@ -1,0 +1,3 @@
+## SQL Server data/log files — generated locally from DB_create.sql, not tracked
+*.mdf
+*.ldf
